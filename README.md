@@ -1,1 +1,1 @@
-# JAVA-OOP
+# JAVA-OOP(IT Talents course)
