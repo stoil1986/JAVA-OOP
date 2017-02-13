@@ -54,10 +54,8 @@ public class Client {
 	} 
 
 	public void getCredit(Bank bank) {
-		double totalCreditTax = 0;
-		// for (int i = 0; i < credits.size(); i++) {
-		// totalCreditTax += credits.get(i).getPayment();
-		// }
+
+		double totalCreditTax = 0;	
 		while (totalCreditTax < 0.5 * this.salary) {
 			totalCreditTax = 0;
 			for (int i = 0; i < credits.size(); i++) {

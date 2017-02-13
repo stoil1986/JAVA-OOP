@@ -9,7 +9,7 @@ import java.util.Scanner;
 import java.util.TreeMap;
 import java.util.TreeSet;
 
-public class Homework_Lesson23 {
+public class MostCommonLetters {
 
 	public static void main(String[] args) {
 
